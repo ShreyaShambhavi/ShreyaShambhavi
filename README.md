@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### My name is Shreya Shambhavi. I am currently pursuing BS in Data Science and Applications from IIT Madras.
+
 <!--
 **ShreyaShambhavi/ShreyaShambhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
